@@ -1,4 +1,7 @@
 #!/usr/bin/python
+# Check the Maximum Transfer Unit (MTU) of a route to a peer
+# 
+# 
 
 import socket, IN
 
