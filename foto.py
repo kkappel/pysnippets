@@ -4,7 +4,8 @@
 # (c) 2015 by Klaus Kappel
 
 from PIL import Image
-import glob, os
+import glob
+import os
 
 size = 128, 128
 
